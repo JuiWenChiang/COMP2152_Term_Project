@@ -2,23 +2,23 @@
 
 ## Team Name
 <!-- Replace with your team name -->
-Team _______
+Team Pentest-Hex16
 
 ## Team Members
 
 | Member | Vulnerability Found | Branch Name |
 |--------|-------------------|-------------|
-| _______ | _______ | _______ |
-| _______ | _______ | _______ |
-| _______ | _______ | _______ |
+| Jui-Wen Chiang | Clickjacking (Missing X-Frame-Options Header) | juiwen_header_clickjacking |
+| Anastasiia Stoianova | Open telnet port | anastasiia_port_vulns |
+| Fatemeh Sadat Ghaani | _______ | _______ |
 
 ## Videos
 
 Each team member records a short video (max 3 minutes) explaining their vulnerability. Add your YouTube links below:
 
-- Member 1: https://youtube.com/watch?v=_______
-- Member 2: https://youtube.com/watch?v=_______
-- Member 3: https://youtube.com/watch?v=_______
+- Member 1 (Jui-Wen Chiang): https://youtube.com/watch?v=_______
+- Member 2 (Anastasiia Stoianova): https://youtube.com/watch?v=_______
+- Member 3 (Fatemeh Sadat Ghaani): https://youtube.com/watch?v=_______
 
 ## Target
 
