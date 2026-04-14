@@ -16,7 +16,7 @@ Team Pentest-Hex16
 
 Each team member records a short video (max 3 minutes) explaining their vulnerability. Add your YouTube links below:
 
-- Member 1 (Jui-Wen Chiang): https://youtube.com/watch?v=_______
+- Member 1 (Jui-Wen Chiang): [COMP2152 Term Project - Clickjacking](https://youtu.be/B36pasEHlGs)
 - Member 2 (Anastasiia Stoianova): https://youtube.com/watch?v=_______
 - Member 3 (Fatemeh Sadat Ghaani): https://youtube.com/watch?v=_______
 
