@@ -1,16 +1,15 @@
 # COMP2152 — Term Project: CTF Bug Bounty
 
 ## Team Name
-<!-- Replace with your team name -->
-Team _______
+Pentest-Hex16
 
 ## Team Members
 
 | Member | Vulnerability Found | Branch Name |
 |--------|-------------------|-------------|
-| _______ | _______ | _______ |
-| _______ | _______ | _______ |
-| _______ | _______ | _______ |
+| Fatemeh Ghaani | Website not using HTTPS (api.0x10.cloud) | Fatemeh_http_check |
+| Jui-Wen Chiang | Clickjacking (Missing X-Frame-Options Header) |               |
+| Anastasiia Stoianova | Open telnet port |             |
 
 ## Videos
 
