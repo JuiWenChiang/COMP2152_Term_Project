@@ -17,7 +17,7 @@ Team Pentest-Hex16
 Each team member records a short video (max 3 minutes) explaining their vulnerability. Add your YouTube links below:
 
 - Member 1 (Jui-Wen Chiang): [COMP2152 Term Project - Clickjacking](https://youtu.be/B36pasEHlGs)
-- Member 2 (Anastasiia Stoianova): https://youtube.com/watch?v=_______
+- Member 2 (Anastasiia Stoianova): [COMP2152 Term Project - Open Telnet port](https://youtu.be/FNIA893_wF0)  
 - Member 3 (Fatemeh Sadat Ghaani):[COMP2152 Term Project - Website not using HTTPS](https://youtu.be/9p2nayedcH0)
 
 ## Target
