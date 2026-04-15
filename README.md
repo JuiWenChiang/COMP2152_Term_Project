@@ -10,7 +10,7 @@ Team Pentest-Hex16
 |--------|-------------------|-------------|
 | Jui-Wen Chiang | Clickjacking (Missing X-Frame-Options Header) | juiwen_header_clickjacking |
 | Anastasiia Stoianova | Open telnet port | anastasiia_port_vulns |
-| Fatemeh Sadat Ghaani | _______ | _______ |
+| Fatemeh Sadat Ghaani | Website not using HTTPS (api.0x10.cloud) | Fatemeh_http_check |
 
 ## Videos
 
